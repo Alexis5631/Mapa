@@ -23,10 +23,18 @@
     margin: auto;
     height: auto;
     text-align: center;
-    
-    
+     
 }
-img{
+
+.contenedor2{
+    padding: 40px;
+    max-width: 60%;
+    margin: auto;
+    height: auto;
+    text-align: center;   
+}
+
+.img{
     width: auto;
     height: auto; 
 }
@@ -42,18 +50,44 @@ img{
     text-align: center;
 }
 
-.contenedor2{
+.titulo2{
     text-align: center;
-    align-items: center;
-    justify-content: center;
-}
-
-.mapAma{
-    display: flex;
-    text-align: left;
+    background-color: rgba(1, 26, 12, 0.822);
+    color: white;
 }
 
 .textoAma{
-    text-align: right;
-    
+    display: flex;
+}
+
+.titulo3{
+    text-align: center;
+    background-color: rgba(4, 131, 57, 0.623);
+    color: white;
+}
+
+.titulo4{
+    text-align: center;
+    background-color: rgba(240, 65, 65, 0.568);
+}
+
+.titulo5{
+    text-align: center;
+    background-color: rgba(20, 247, 115, 0.473);
+}
+
+.titulo6{
+    text-align: center;
+    background-color: rgba(98, 189, 250, 0.459);
+}
+
+.tablaContenido{
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -600px;
+     
+}
+
+.regresar:{
 }
